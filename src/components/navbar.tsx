@@ -63,11 +63,6 @@ export default function Navbar() {
 								Projetos
 							</Link>
 						</li>
-						<li>
-							<Link href={'#contact'} onClick={() => setIsOpen(false)}>
-								Contato
-							</Link>
-						</li>
 						<ThemeSwitcher />
 					</motion.ul>
 				)}
