@@ -76,7 +76,7 @@ export default function HeroSection() {
 						<IoLogoLinkedin size={23} />
 					</Link>
 					<Link
-						href={'/assets/Currículo_Gustavo_Guillan_2025.pdf'}
+						href={'/assets/Currículo_Gustavo_Guillan_2025_.pdf'}
 						target="_blank"
 						// download
 						className="flex items-center gap-2 bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg w-60"
