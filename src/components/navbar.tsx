@@ -32,9 +32,6 @@ export default function Navbar() {
 					<li>
 						<Link href={'#projects'}>Projetos</Link>
 					</li>
-					{/* <li>
-						<Link href={'#contact'}>Contato</Link>
-					</li> */}
 					<ThemeSwitcher />
 				</ul>
 			</div>
